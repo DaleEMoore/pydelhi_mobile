@@ -1,0 +1,30 @@
+
+Overview
+Forked https://github.com/pydelhi/pydelhi_mobile to https://github.com/DaleEMoore/pydelhi_mobile.git
+    because pydelhi_mobile seems to be an app that's acquiring data.
+
+http://pydelhi.org/ User Group 2017 conference https://conference.pydelhi.org/
+    pydelhi_mobile conference organizer.
+
+functional programming presentation http://slides.com/shagunsodhani/pydelhiconf2017#/
+    code https://github.com/shagunsodhani/PyDelhiConf2017
+    This author's previous year conference https://github.com/shagunsodhani/PyCon2016
+
+Pydelhi at github.com https://github.com/search?utf8=%E2%9C%93&q=pydelhi&type=
+
+TODO
+Run pydelhi_mobile and see if it acquires data.
+    clone https://github.com/DaleEMoore/pydelhi_mobile.git
+    create this file (infoPydelhi_mobile.txt) to capture the project.
+    install requirements. What verison of Python? python2?
+    python3 got ValueError: time data 'tracks' does not match format '%Y-%m-%d'
+    try python2, install requirements. python2 runs fine, so far.
+
+See how pydelhi_mobile acquires data.
+    Links to https://feedback.pydelhi.org/ so the website collects data, not the kivy app.
+
+
+
+Mon 30 Oct 2017 5:19 PM CST
+Forked https://github.com/pydelhi/pydelhi_mobile to https://github.com/DaleEMoore/pydelhi_mobile.git
+    because pydelhi_mobile seems to be an app that's acquiring data.
